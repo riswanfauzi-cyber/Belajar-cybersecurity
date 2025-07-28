@@ -8,11 +8,12 @@
 - Learn essential tools such as Linux, Wireshark, Burp Suite, Nmap, etc.  
 - Practice hands-on labs and real-world scenarios  
 - Build a portfolio through daily documentation and write-ups  
-- Prepare to apply for entry-level roles or internships in cybersecurity by early 2026  
+- Prepare to apply for entry-level roles or internships in cybersecurity by early 2026
 
 ## Daily Logs
 
-- [Day 1](day1/notes.md)
+- [Day 1 - Notes](day/day1/notes.md) | [Tools](day/day1/tools.md) | [References](day/day1/reference.md)  
+- [Day 2 - Notes](day/day2/notes.md) | [Tools](day/day2/tools.md) | [References](day/day2/reference.md)
 
 ## Tools
 
@@ -20,5 +21,5 @@
 
 ## References
 
-- [Articles](referensi/articles.md)  
-- [Video Links](referensi/video-links.md)
+- [Articles](reference/articles.md)  
+- [Video Links](reference/video-links.md)
