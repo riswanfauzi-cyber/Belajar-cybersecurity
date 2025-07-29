@@ -1,9 +1,9 @@
 # Cybersecurity Journey from Zero
 
-**Goal:** Build a strong foundation in cybersecurity and prepare to enter the cybersecurity field by 2026.
+## Goal:
+Build a strong foundation in cybersecurity and prepare to enter the cybersecurity field by 2026.
 
-## Objectives
-
+### Objectives
 - Gain solid understanding of cybersecurity fundamentals  
 - Learn essential tools such as Linux, Wireshark, Burp Suite, Nmap, etc.  
 - Practice hands-on labs and real-world scenarios  
@@ -12,18 +12,39 @@
 
 ---
 
-## Daily Logs
+## 📅 Daily Logs
 
-- [Day 1 - Teori](day/day1/teori/) | [Praktek](day/day1/praktek/)
-- [Day 2 - Teori](day/day2/teori/) | [Praktek](day/day2/praktek/)
-- [Day 3 - Teori](day/day3/teori/) | [Praktek](day/day3/praktek/)
+### Day 1  
+- **Theory**  
+  - [Notes](day1/teori/notes.md)  
+  - [Reference](day1/teori/reference.md)  
+- **Practice**  
+  - [Notes](day1/praktek/notes.md)  
+  - [Reference](day1/praktek/reference.md)  
+  - [Tools](day1/praktek/tools.md)
+
+### Day 2  
+- **Theory**  
+  - [Notes](day2/teori/notes.md)  
+  - [Reference](day2/teori/reference.md)  
+- **Practice**  
+  - [Notes](day2/praktek/notes.md)  
+  - [Reference](day2/praktek/reference.md)  
+  - [Tools](day2/praktek/tools.md)
+
+### Day 3  
+- **Theory**  
+  - [Notes](day3/teori/notes.md)  
+  - [Reference](day3/teori/reference.md)  
+- **Practice**  
+  - [Notes](day3/praktek/notes.md)  
+  - [Reference](day3/praktek/reference.md)  
+  - [Tools](day3/praktek/tools.md)
 
 ---
 
-## Reference
+## 📚 Global Reference  
+- [reference.md](reference.md)
 
-- [Reference Folder](reference/)
-
-## Tools
-
-- [Tools Folder](tools/)
+## 🧰 Global Tools  
+- [tools.md](tools.md)
