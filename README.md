@@ -16,12 +16,12 @@ Build a strong foundation in cybersecurity and prepare to enter the cybersecurit
 
 ### Day 1  
 - **Theory**  
-  - [Notes](day1/teori/notes.md)  
-  - [Reference](day1/teori/reference.md)  
+  - [Notes](day1/theory/notes.md)  
+  - [Reference](day1/theory/reference.md)  
 - **Practice**  
-  - [Notes](day1/praktek/notes.md)  
-  - [Reference](day1/praktek/reference.md)  
-  - [Tools](day1/praktek/tools.md)
+  - [Notes](day1/practice/notes.md)  
+  - [Reference](day1/practice/reference.md)  
+  - [Tools](day1/practice/tools.md)
 
 ### Day 2  
 - **Theory**  
